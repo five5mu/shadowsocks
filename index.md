@@ -2,7 +2,7 @@
 
 | 区域 | 防走丢链接👇 | 注册 | 备注 |
 | :----: | :----: | :----: | :----: |
-| A区 | https://github.com/five5mu/shadowsocks/blob/a/a.md | 关闭 | | 
+| A区 | [A区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/a/a.md) | 关闭 | | 
 | B区 | https://github.com/five5mu/shadowsocks/blob/b/b.md | <b>开放</b> | 回国线路 | 
 | C区 | https://github.com/five5mu/shadowsocks/blob/c/c.md | 关闭| | 
 | D区 | https://github.com/five5mu/shadowsocks/blob/d/d.md | 关闭 | | 
