@@ -7,4 +7,4 @@
 | C区 | https://github.com/five5mu/shadowsocks/blob/a/a.md | 关闭注册 | | 
 | D区 | https://github.com/five5mu/shadowsocks/blob/a/a.md | 关闭注册 | | 
 | E区 | https://github.com/five5mu/shadowsocks/blob/a/a.md | 关闭注册 | | 
-| F区 | https://github.com/five5mu/shadowsocks/blob/a/a.md | 开放注册 | | 
+| F区 | https://github.com/five5mu/shadowsocks/blob/a/a.md | <b>开放注册</b> | | 
