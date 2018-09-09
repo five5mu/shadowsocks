@@ -2,10 +2,10 @@
 
 | 区域 | 防走丢链接👇 | 💗 | 区域 | 防走丢链接👇 |
 | :----: | :----: | :----: | :----: | :----: |
-| A区 | [A区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/a/a.md) | 💗 | B区 | [A区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/a/a.md) | 
-| C区 | [C区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/c/c.md) | 💗 | D区 | [D区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/d/d.md) | 
-| E区 | [E区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/e/e.md) | 💗 | F区 | [F区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/f/f.md) | 
-| R区 | [R区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/r/r.md) | 💗 | A区 | [A区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/a/a.md) | 
+| A区 | [A区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/a/a.md) | 🚀🚀🚀 | B区 | [A区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/a/a.md) | 
+| C区 | [C区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/c/c.md) | 🚀🚀🚀 | D区 | [D区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/d/d.md) | 
+| E区 | [E区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/e/e.md) | 🚀🚀🚀 | F区 | [F区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/f/f.md) | 
+| R区 | [R区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/r/r.md) | 🚀🚀🚀 | A区 | [A区-防走丢链接](https://github.com/five5mu/shadowsocks/blob/a/a.md) | 
 
 ### 说明
 
